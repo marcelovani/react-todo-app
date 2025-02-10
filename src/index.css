@@ -71,3 +71,7 @@ a {
 #delete:hover {
   color: red;
 }
+
+#sign-out:hover {
+  color: red;
+}
